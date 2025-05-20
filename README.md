@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adam Rodi
 
-🚀 CS + Data Science @ Southeastern Louisiana University | AWS Intern | Building AI Projects 
-🎯 Focused on software engineering, machine learning, solving hard problems with code, and always learning.
+- 🚀 CS + Data Science @ Southeastern Louisiana University | AWS Intern | Building AI Projects 
+- 🎯 Focused on software engineering, machine learning, solving hard problems with code, and always learning.
 
 
 ### 🧠 Currently Working On
