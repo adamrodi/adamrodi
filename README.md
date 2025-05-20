@@ -26,4 +26,4 @@ Tools:        Git, GitHub, Vite, VSCode, Postman, Figma
 
 ### 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/adamrodi/)
-- [Email](adam.rodi@selu.edu)
+- Email: adam.rodi@selu.edu
