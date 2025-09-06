@@ -1,18 +1,17 @@
 # 👋 Hi, I'm Adam Rodi
 
-- 🚀 CS + Data Science @ Southeastern Louisiana University | AWS Intern | Building AI Projects 
+- 🚀 CS + Data Science @ Southeastern Louisiana University | Previous AWS Intern
 - 🎯 Focused on software engineering, machine learning, solving hard problems with code, and always learning.
 
 
-### 🧠 Currently Working On
+### 🧠 Projects I'm Building
 - 🧑‍💻 [AI Mock Interviewer](https://github.com/riyajclgn123/AI-Mock-Interviewer): LLM-powered tool for simulating behavioral and technical interviews.
 - 🍽️ [Activ-Ate](https://github.com/adamrodi/activ-ate): A fitness & nutrition tracker built with C# (.NET) and React/TypeScript.
 
 
 ### 🧠 Learning Now
-- 🧑‍🏫 Deepening ML knowledge and skills through [Fast.ai – Practical Deep Learning for Coders](https://course.fast.ai/)
-- 🧮 Prepping for Calculus II & Discrete Math
-- 🧠 Exploring LLMs, embeddings, and applied ML with real projects
+- 🧑‍🏫 Studying Calculus II, Discrete Math, Programming Languages, and Data Mining
+- 🧠 Exploring LLMs and applied ML with real projects
 
 
 ### 🛠️ Tech Stack
@@ -20,7 +19,7 @@
 Languages:    Python, Java, TypeScript, C#, C++
 Frameworks:   React, .NET Core, Mantine UI, Arduino
 Libraries:    pandas, NumPy, matplotlib, OpenAI API
-Tools:        Git, GitHub, Vite, VSCode, Postman, Figma
+Tools:        AWS, Git, GitHub, Vite, VSCode, Postman, Figma
 ```
 
 
