@@ -8,7 +8,7 @@
 
 ### 🧠 What I'm Building
 
-#### [🦀 Multiplayer Game Server](#)
+#### [🦀 Multiplayer Game Server](https://github.com/arlemoine/CMPS401/tree/main/Project)
 Real-time web game with matchmaking, chat, and WebSocket infrastructure on Ubuntu. Exploring concurrency, networking, and state sync in Rust/TypeScript.  
 **Tech:** Rust, WebSockets, Zustand, Tokio, TypeScript, React, Ubuntu  
 **Impact:** Designing scalable session/state model, matchmaking, and WebSockets handling.  
