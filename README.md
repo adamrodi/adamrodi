@@ -1,57 +1,66 @@
 # 👋 Hi, I'm Adam Rodi
 
-- 🚀 B.S. Computer Science & Data Science @ Southeastern Louisiana University — 4.0 GPA
-- ☁️ Former AWS Cloud Support Associate Intern
+- 🚀 B.S. in Computer Science & Data Science @ Southeastern Louisiana University (4.0 GPA)
+- ☁️ Former AWS Cloud Support Associate Intern | AWS Certified Solutions Architect – Associate
+- 💡 Passionate about distributed systems, AI/ML, and solving hard engineering problems
+
+---
 
 ### 🧠 What I'm Building
-- #### 🦀 Multiplayer Game Server  
-  Real-time web game with matchmaking, chat, and WebSocket infrastructure on Ubuntu. Exploring concurrency, networking, and state sync in Rust/TypeScript.  
-  Tech: Rust, WebSockets, Redis/Postgres, Ubuntu, Nginx  
-  Impact: Designed session/state model and latency-aware matchmaking.  
-  Links: [Repo](#)
 
-- #### 🧬 Zebrafish Neural Data Project  
-  Unsupervised learning + visualization for biological imaging data (clustering, dimensionality reduction).  
-  Tech: Python, NumPy/pandas, scikit-learn, matplotlib  
-  Impact: Reproducible pipeline and visual analytics to surface neuronal patterns.  
-  Links: [Repo](#)
+#### [🦀 Multiplayer Game Server](#)
+Real-time web game with matchmaking, chat, and WebSocket infrastructure on Ubuntu. Exploring concurrency, networking, and state sync in Rust/TypeScript.  
+**Tech:** Rust, WebSockets, Zustand, Tokio, TypeScript, React, Ubuntu  
+**Impact:** Designing scalable session/state model, matchmaking, and WebSockets handling.  
 
-- #### 🌐 Personal Portfolio (adamrodi.com)  
-  Portfolio hosted on Ubuntu VM with Apache, HTTPS via Let’s Encrypt, Cloudflare.  
-  Tech: TypeScript, React, Vite, Apache, Ubuntu, TLS  
-  Impact: CI/CD for zero-downtime deploys; hardened TLS and caching for fast loads.  
-  Links: [Site](https://adamrodi.com) • [Repo](#)
+#### [🧬 Zebrafish Neural Data Project](#)
+Unsupervised learning on biological imaging data (clustering, dimensionality reduction). Data preprocessing to extract features from brain images. Aimed at conference presentation.
+**Tech:** Python, NumPy, pandas, matplotlib  
+**Impact:** Built a reproducible ML pipeline to cluster brain regions and visualize stress-induced neural pattern differences relative to control fish.
+
+#### [🌐 Personal Portfolio (adamrodi.com)](https://adamrodi.com)
+Portfolio hosted on Ubuntu VM with Apache, HTTPS (Let’s Encrypt), and Cloudflare DNS.  
+**Tech:** TypeScript, React, Vite, Apache, Ubuntu, TLS  
+
+---
 
 ### 🧩 Previous Projects
-- #### 🍽️ Activ-Ate — Full-stack fitness & nutrition tracker (C#/.NET + React/TypeScript)  
-  Built REST APIs, frontend state management, and a responsive UI for meals/workouts.  
-  Focus: clean API design, auth, form UX. 
-  Links: [Repo](#)
 
-- #### ☁️ AWS Troubleshooting Chatbot — Lex + Lambda for OpenSearch diagnostics  
-  Automated triage for yellow/red cluster states; integrated Lambda (Python), CloudWatch, Lex, API Gateway, and CloudFront.  
-  Result: Faster first-response with suggested next steps. 
-  Links: [Repo](#)
+#### [🍽️ Activ-Ate](#)
+Full-stack fitness & nutrition tracker built with C#/.NET and React/TypeScript.  
+**Tech:** C#, .NET Core, React, TypeScript, Mantine UI, Docker
+**Impact:** REST API design, responsive UI for meal/workout tracking, and relational database models.
 
-- #### 🏗️ Highly Available Web App on AWS  
-  Three-tier architecture with Auto Scaling, ALB, multi-AZ, DynamoDB, and EC2, least privilege firewalls.  
-  Result: Fault-tolerant deployment for high availability and security. 
-  Links: [Repo](#)
+#### ☁️ AWS Troubleshooting Chatbot
+Lex + Lambda system for OpenSearch diagnostics.  
+**Tech:** AWS Lex, Lambda (Python), CloudWatch, API Gateway, CloudFront, IAM  
+**Impact:** Automated diagnostics for yellow/red cluster states, reducing time to resolution.
 
-### 📚 Learning Now
-- Systems design, Rust concurrency, distributed systems, WebSocket APIs
-- Advanced Python for algorithms, data science, and ML
+#### 🏗️ Highly Available Web App
+Three-tier AWS architecture using an Application Load Balancer (ALB), EC2 (Linux VMs), Auto Scaling, multi-AZ, and DynamoDB. 
+**Tech:** AWS VPC (public/private subnets), ALB, EC2, Launch Templates, Amazon DynamoDB, AWS Systems Manager, AWS IAM
+**Impact:** Fault-tolerant, secure infrastructure aligned with AWS best practices.
 
-### 🛠️ Tech Stack (primary)
+---
+
+### 📚 Currently Learning
+- Systems design, distributed systems, and Rust concurrency  
+- Advanced Python for algorithms, data science, and ML  
+- AWS architecture and scalable backend design  
+
+---
+
+### 🛠️ Tech Stack
 ```txt
 Languages:    Python, Java, Rust, C#, TypeScript, C++
 Frameworks:   .NET Core, React, Mantine UI
-Libraries:    pandas, NumPy, matplotlib
+Libraries:    pandas, NumPy, scikit-learn, matplotlib
 Tools:        AWS, Docker, Git/GitHub, Vite, VSCode, Linux
 ```
+
+---
 
 ### 📬 Connect
 - Portfolio: [adamrodi.com](https://adamrodi.com)
 - LinkedIn: [linkedin.com/in/adamrodi](https://www.linkedin.com/in/adamrodi/)
 - Email: [adam.rodi@selu.edu](mailto:adam.rodi@selu.edu)
-- Resume: [Add your PDF link]
