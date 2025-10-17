@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Rodi-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamrodi/)
 [![Portfolio](https://img.shields.io/badge/🌐_Website-adamrodi.com-lightgrey?logo=google-chrome&logoColor=white)](https://adamrodi.com)
-![Visitors](https://komarev.com/ghpvc/?username=adamrodi&style=flat&color=brightgreen)
 
 ---
 
@@ -15,7 +14,7 @@
 ## 💻 What I'm Building
 ### 🦀 Multiplayer Game Server  
 Real-time web game with matchmaking, chat, and WebSocket infrastructure deployed on an Ubuntu VM.  
-Exploring backend **concurrency**, **networking**, and **state synchronization** using **Rust** and **React**.
+Learning backend **concurrency**, **networking**, and **state synchronization** using **Rust** and **React**.
 
 ### 🧬 Zebrafish Neural Data Project  
 Applying unsupervised learning and visualization to biological imaging data.  
@@ -42,7 +41,6 @@ Deployed a **three-tier architecture** with **Auto Scaling**, **Load Balancing**
 ---
 
 ## 📘 Learning Now
-- 🧩 **Courses:** Data Mining, Programming Languages, Calculus II, and Discrete Math  
 - 🧠 **Topics:** Systems design, Rust concurrency, distributed web architecture, WebSocket APIs  
 - 🤖 **Skills:** Advanced Python for algorithms, data science, and machine learning foundations
 
@@ -66,12 +64,7 @@ Deployed a **three-tier architecture** with **Auto Scaling**, **Load Balancing**
 
 ---
 
-## 🎯 Goals
-- Secure a **Summer 2026 Software Engineering / ML Engineering internship**  
-- Build technically deep projects in **AI**, **backend systems**, and **data-driven applications**  
-- Continue mastering **Rust**, **Python**, and **cloud architecture**
-
----
-
 ## 📬 Connect with Me
-📫 [LinkedIn](https://www.linkedin.com/in/adamrodi/) • 🌐 [adamrodi.com](https://adamrodi.com) • ✉️ **adam.rodi@selu.edu**
+📫 [LinkedIn](https://www.linkedin.com/in/adamrodi/)  
+🌐 [adamrodi.com](https://adamrodi.com)
+✉️ **adam.rodi@selu.edu**
