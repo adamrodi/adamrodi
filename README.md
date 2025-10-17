@@ -28,17 +28,17 @@ Portfolio hosted on Ubuntu VM with Apache, HTTPS (Let’s Encrypt), and Cloudfla
 
 #### [🍽️ Activ-Ate](#)
 Full-stack fitness & nutrition tracker built with C#/.NET and React/TypeScript.  
-**Tech:** C#, .NET Core, React, TypeScript, Mantine UI, Docker
+**Tech:** C#, .NET Core, React, TypeScript, Mantine UI, Docker. 
 **Impact:** REST API design, responsive UI for meal/workout tracking, and relational database models.
 
 #### ☁️ AWS Troubleshooting Chatbot
 Lex + Lambda system for OpenSearch diagnostics.  
-**Tech:** AWS Lex, Lambda (Python), CloudWatch, API Gateway, CloudFront, IAM  
+**Tech:** AWS Lex, Lambda (Python), CloudWatch, API Gateway, CloudFront, IAM. 
 **Impact:** Automated diagnostics for yellow/red cluster states, reducing time to resolution.
 
 #### 🏗️ Highly Available Web App
 Three-tier AWS architecture using an Application Load Balancer (ALB), EC2 (Linux VMs), Auto Scaling, multi-AZ, and DynamoDB. 
-**Tech:** AWS VPC (public/private subnets), ALB, EC2, Launch Templates, Amazon DynamoDB, AWS Systems Manager, AWS IAM
+**Tech:** AWS VPC (public/private subnets), ALB, EC2, Launch Templates, Amazon DynamoDB, AWS Systems Manager, AWS IAM. 
 **Impact:** Fault-tolerant, secure infrastructure aligned with AWS best practices.
 
 ---
