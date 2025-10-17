@@ -26,7 +26,7 @@ Portfolio hosted on Ubuntu VM with Apache, HTTPS (Let’s Encrypt), and Cloudfla
 
 ### 🧩 Previous Projects
 
-#### [🍽️ Activ-Ate](#)
+#### [🍽️ Activ-Ate](https://github.com/adamrodi/activ-ate)
 Full-stack fitness & nutrition tracker built with C#/.NET and React/TypeScript.  
 **Tech:** C#, .NET Core, React, TypeScript, Mantine UI, Docker   
 **Impact:** REST API design, responsive UI for meal/workout tracking, and relational database models.  
