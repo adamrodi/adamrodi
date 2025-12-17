@@ -14,7 +14,7 @@ Real-time web game with matchmaking, chat, and WebSocket infrastructure on Ubunt
 **Impact:** Designing scalable session/state model, matchmaking, and WebSockets handling.  
 
 #### [🧬 Zebrafish Neural Data Project](https://github.com/arlemoine/CMPS451_Project)
-Unsupervised learning on biological imaging data (clustering, dimensionality reduction). Data preprocessing to extract features from brain images. Aimed at conference presentation.
+Unsupervised learning on biological imaging data (clustering, dimensionality reduction). Data preprocessing to extract features from brain images. Aimed at conference presentation. 
 **Tech:** Python, NumPy, pandas, matplotlib  
 **Impact:** Built a reproducible ML pipeline to cluster brain regions and visualize stress-induced neural pattern differences relative to control fish.
 
