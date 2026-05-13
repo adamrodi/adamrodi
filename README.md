@@ -1,66 +1,89 @@
 # 👋 Hi, I'm Adam Rodi
 
-- 🚀 B.S. in Computer Science & Data Science @ Southeastern Louisiana University (4.0 GPA)
-- ☁️ Former AWS Cloud Support Associate Intern | AWS Certified Solutions Architect – Associate
-- 💡 Passionate about distributed systems, AI/ML, and solving hard engineering problems
+- B.S. in Computer Science & Data Science @ Southeastern Louisiana University (4.0 GPA)
+- AWS Cloud Support Engineer Intern, Summer 2026
+- AWS Cloud Support Associate Intern, Summer 2025
 
----
+## Featured Projects
 
-### 🧠 What I'm Building
+### MedAI
 
-#### [🦀 Multiplayer Game Server](https://github.com/arlemoine/CMPS401/tree/main/Project)
-Real-time web game with matchmaking, chat, and WebSocket infrastructure on Ubuntu. Exploring concurrency, networking, and state sync in Rust/TypeScript.  
-**Tech:** Rust, WebSockets, Zustand, Tokio, TypeScript, React, Ubuntu  
-**Impact:** Designing scalable session/state model, matchmaking, and WebSockets handling.  
+An AI coworker for healthcare staff with access to company documents (RAG) and patient data (MCP tools). 
 
-#### [🧬 Zebrafish Neural Data Project](https://github.com/arlemoine/CMPS451_Project)
-Unsupervised learning on biological imaging data (clustering, dimensionality reduction). Data preprocessing to extract features from brain images. Aimed at conference presentation.   
-**Tech:** Python, NumPy, pandas, matplotlib  
-**Impact:** Built a reproducible ML pipeline to cluster brain regions and visualize stress-induced neural pattern differences relative to control fish.
+Capstone project with industry client DSS Inc., using Claude models via Amazon Bedrock, RAG, MCP, Cognito auth, PostgreSQL persistence, SSE streaming, ECS/Fargate, and Terraform.
 
-#### [🌐 Personal Portfolio (adamrodi.com)](https://adamrodi.com)
-Portfolio hosted on Ubuntu VM with Apache, HTTPS (Let’s Encrypt), and Cloudflare DNS.  
-**Tech:** TypeScript, React, Vite, Apache, Ubuntu, TLS  
+My work focused on backend LLM orchestration: Bedrock Converse API tool use, agentic model loop, RAG/MCP integration, streaming responses, REST API, auth, and conversation persistence.
 
----
+Tech: Python, FastAPI, Amazon Bedrock, PostgreSQL, Cognito, ECS Fargate, Terraform, React
 
-### 🧩 Previous Projects
+Case Study (Coming Soon) 
 
-#### [🍽️ Activ-Ate](https://github.com/adamrodi/activ-ate)
-Full-stack fitness & nutrition tracker built with C#/.NET and React/TypeScript.  
-**Tech:** C#, .NET Core, React, TypeScript, Mantine UI, Docker   
-**Impact:** REST API design, responsive UI for meal/workout tracking, and relational database models.  
+Repository (Coming Soon) 
 
-#### ☁️ AWS Troubleshooting Chatbot
-Lex + Lambda system for OpenSearch diagnostics.  
-**Tech:** AWS Lex, Lambda (Python), CloudWatch, API Gateway, CloudFront, IAM   
-**Impact:** Automated diagnostics for yellow/red cluster states, reducing time to resolution.  
 
-#### 🏗️ Highly Available Web App
-Three-tier AWS architecture using an Application Load Balancer (ALB), EC2 (Linux VMs), Auto Scaling, multi-AZ, and DynamoDB.  
-**Tech:** AWS VPC (public/private subnets), ALB, EC2, Launch Templates, Amazon DynamoDB, AWS Systems Manager, AWS IAM   
-**Impact:** Fault-tolerant, secure infrastructure aligned with AWS best practices.  
+### Activ-Ate
 
----
+Three-tier full-stack app for tracking nutrition and fitness data.
 
-### 📚 Currently Learning
-- Systems design, distributed systems, and Rust concurrency  
-- Advanced Python for algorithms, data science, and ML  
-- AWS architecture and scalable backend design  
+Tech: C#, .NET, SQL, React 
 
----
+[Case Study](https://adamrodi.com/projects/activ-ate) 
 
-### 🛠️ Tech Stack
-```txt
-Languages:    Python, Java, Rust, C#, TypeScript, C++
-Frameworks:   .NET Core, React, Mantine UI
-Libraries:    pandas, NumPy, scikit-learn, matplotlib
-Tools:        AWS, Docker, Git/GitHub, Vite, VSCode, Linux
-```
+[Repository](https://github.com/adamrodi/activ-ate) 
 
----
 
-### 📬 Connect
-- Portfolio: [adamrodi.com](https://adamrodi.com)
-- LinkedIn: [linkedin.com/in/adamrodi](https://www.linkedin.com/in/adamrodi/)
-- Email: [adam.rodi@selu.edu](mailto:adam.rodi@selu.edu)
+### OpenSearch Troubleshooting Chatbot
+
+AWS project using a Lex bot and Lambda-backed decision tree to diagnose OpenSearch yellow cluster issues.
+
+Tech: AWS Lex, Lambda, OpenSearch, Python
+
+Repository private
+
+
+### Cargo Games
+
+Real-time, multiplayer game server built in Rust to explore networked systems, server-side game logic, concurrency, and low-level backend performance.
+
+Tech: Rust, WebSockets, concurrency, game server architecture
+
+[Case Study](https://adamrodi.com/projects/cargo-games)
+
+[Repository](https://github.com/arlemoine/CMPS401/tree/main/Project)
+
+
+## Current Focus
+
+- AI application development
+
+- LLM orchestration and tool use
+
+- AI Agents
+
+- AWS cloud systems
+
+- Backend engineering
+
+## Technical Stack
+
+Languages: Python, TypeScript, Java, Rust, C#, SQL  
+
+Backend: FastAPI, .NET, REST APIs, Server-Sent Events, WebSockets
+
+Infrastructure: AWS, Bedrock, Cognito, ECS/Fargate, RDS, Lambda, Docker, Terraform 
+
+Frontend: React, TypeScript  
+
+Data: PostgreSQL, DynamoDB, pandas, NumPy
+
+Tools: Claude Code, Codex, Git, GitHub, Linux
+
+## Links
+
+Portfolio: [adamrodi.com](https://adamrodi.com)
+
+LinkedIn: [linkedin.com/in/adamrodi](https://www.linkedin.com/in/adamrodi/)
+
+Resume: [adamrodi.com/resume](https://adamrodi.com/Adam_Rodi_Resume.pdf)
+
+Email: [adam.rodi@selu.edu](mailto:adam.rodi@selu.edu)
