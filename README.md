@@ -84,6 +84,6 @@ Portfolio: [adamrodi.com](https://adamrodi.com)
 
 LinkedIn: [linkedin.com/in/adamrodi](https://www.linkedin.com/in/adamrodi/)
 
-Resume: [adamrodi.com/resume](https://adamrodi.com/Adam_Rodi_Resume.pdf)
+Resume: [adamrodi.com/resume](https://adamrodi.com/resume)
 
 Email: [adam.rodi@selu.edu](mailto:adam.rodi@selu.edu)
